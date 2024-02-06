@@ -3,8 +3,7 @@
 <!--
 **ulas96/ulas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hi there 👋
------------------------------------------------
+
 
 🔭 I’m looking to collaborate on Data Scientist, Machine Learning Engineer or AI Product Manager<br><br>🌱 I’m currently learning AI<br><br>💬 Ask me about anything
 
