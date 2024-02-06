@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-**ulas96/ulas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
-🔭 I’m looking to collaborate on Data Scientist, Machine Learning Engineer or AI Product Manager<br><br>🌱 I’m currently learning AI<br><br>💬 Ask me about anything
+🔭 I’m looking to collaborate on Blockchain Engineering, Smart Contract Development, Web3 Development and System Engineering <br><br>🌱 I’m currently learning Regenerating Finance<br><br>💬 Ask me about anything
 
 
 
