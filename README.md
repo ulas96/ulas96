@@ -19,11 +19,7 @@
 # 📊 GitHub Stats:
 ![Ulas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulas96&show_icons=true&theme=radical)<br/>
 
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ulas96&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-![Snake animation](https://github.com/armantunga/armantunga/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
