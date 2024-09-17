@@ -4,7 +4,7 @@
 
 
 
-🔭 I’m looking to collaborate on Blockchain Engineering, Smart Contract Development, Web3 Development and System Engineering <br><br>🌱 I’m currently working on Regenerating Finance<br><br>💬 Ask me about anything
+🔭 I’m looking to collaborate on Blockchain Engineering, Smart Contract Development, Web3 Development and System Engineering <br><br>🌱 I’m currently working on Decentralized Science and Decentralized Finance<br><br>💬 Ask me about anything
 
 
 
